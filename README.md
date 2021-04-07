@@ -14,7 +14,7 @@
 - 💞️ I love this huge digital world and I'm sure this is exactly where I want to be!
 - 👀 Now I'm looking for new projects and working opportunities.
 
-#### Languages and technology being lerned:
+#### Languages and technologies being lerned:
 
 ![Screenshot 2021-04-07 02:33:40](https://user-images.githubusercontent.com/73307960/113793934-bdf09700-9749-11eb-8f79-b9db13de3760.png)
 
