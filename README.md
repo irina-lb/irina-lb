@@ -7,8 +7,8 @@
 
 ##### Here are some facts about me:
 
-- :star_struck: I just finished my first full stack project. You can check it __[here](https://github.com/irina-lb/Full-Stack-Project)__.
-- :headphones: I'm listening music for inspiration and to write some code. (I recommend this __[youtube channel](https://www.youtube.com/watch?v=5qap5aO4i9A)__, if you also do!) 
+- :star_struck: I'm a passionate front-end developer who loves turning creative ideas into interactive and user-friendly websites and applications.
+- :headphones: I'm listening music for inspiration and to write some code.
 - :open_book: I'm reading daily, not only books, but also documentation.
 - :chart_with_upwards_trend: I also have an economics degree, but I have never worked in this field. (But I'm grateful for this experience, it helps me in my life and work.)
 - 💞️ I love this huge digital world and I'm sure this is exactly where I want to be!
